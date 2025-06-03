@@ -4,7 +4,6 @@ body {
 }
 
 h1 {
-
     font-size: 48px;
 }
 
@@ -28,6 +27,8 @@ button {
     width: 640px;
     margin: 0 auto;
     margin-bottom: 1.5rem;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .container {
